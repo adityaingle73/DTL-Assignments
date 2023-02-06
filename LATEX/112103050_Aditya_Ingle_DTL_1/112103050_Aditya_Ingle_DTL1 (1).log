@@ -1,0 +1,94 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.29)  20 DEC 2022 14:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./112103050_Aditya_Ingle_DTL1 (1).tex"
+(112103050_Aditya_Ingle_DTL1 (1).tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\Aditya Ingle\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Aditya Ingle\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Aditya Ingle\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3back
+end-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+) (112103050_Aditya_Ingle_DTL1 (1).aux)
+\openout1 = `"112103050_Aditya_Ingle_DTL1 (1).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+
+(112103050_Aditya_Ingle_DTL1 (1).toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+Overfull \hbox (1.39734pt too wide) in paragraph at lines 5--5
+ [][] []\OT1/cmr/m/n/12 Improved back-ground for choos-ing ap-pro-pri-ate lan-g
+uages. []  
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `"112103050_Aditya_Ingle_DTL1 (1).toc"'.
+
+ [1
+
+{C:/Users/Aditya Ingle/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[1] [2] (112103050_Aditya_Ingle_DTL1 (1).aux) ) 
+Here is how much of TeX's memory you used:
+ 471 strings out of 475385
+ 9478 string characters out of 2773566
+ 352784 words of memory out of 3000000
+ 21919 multiletter control sequences out of 15000+600000
+ 475739 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,7n,38p,320b,222s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Aditya Ingle/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Aditya
+ Ingle/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pf
+b><C:/Users/Aditya Ingle/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><C:/Users/Aditya Ingle/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on "112103050_Aditya_Ingle_DTL1 (1).pdf" (3 pages, 65249 bytes).
+
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

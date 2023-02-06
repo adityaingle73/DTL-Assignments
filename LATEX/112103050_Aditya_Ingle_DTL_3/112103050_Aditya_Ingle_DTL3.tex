@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{csvsimple}
+
+\begin{document}
+\section{\LARGE INSERTING IMAGE :}
+Tanjiro shows traits such as virtue, generosity, honesty, and humbleness. He is gentle to a fault, preventing him from making decisive decisions but is later shown to be serious when he needs to be
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{Demon_Slayer}
+\caption{\large Image of Tanjiro using waterform}
+\end{figure}
+
+\section{\LARGE MAKING TABLE :}
+
+\begin{tabular}{ ||p{3cm}||p{3cm}||p{3cm}||p{3cm}||  }
+ \hline
+ \multicolumn{4}{||c||}{\textbf {T1 MARKS}} \\
+ \hline
+ Student Name & DLD & PPL & ODEMC\\
+ \hline
+ Aditya   & 15   & 14 & 17\\
+ Hariom &   16  & 17   & 16\\
+ Shrikant & 12 & 15 &  16\\
+ Dhananjay    & 18 & 16 &  12\\
+ Himanshu &   17  & 16 & 18\\
+ Abhishek  & 20 & 20 & 20\\
+ Harshal  & 18 & 17 & 17\\
+ \hline
+\end{tabular}
+
+\section{\LARGE MAKING TABLE USING  CSV:}
+\begin{table}[h]
+\begin{center}
+\huge\csvautotabular[]{Age.csv}
+\end{center}
+\end{table}
+\end{document}
